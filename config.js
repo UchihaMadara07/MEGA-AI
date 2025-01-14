@@ -81,7 +81,7 @@ global.dygp = 'https://chat.whatsapp.com/KWAadDw545X2Re1F6RjjEz'
 global.fgsc = 'https://github.com/obitoxd/OBITO-BOTZZ'
 global.fgyt = 'https://youtube.com/@kamui_edits'
 global.fgpyp = 'https://youtube.com/@kamui_edits'
-global.fglog = 'https://i.imgur.com/y7cGHfe.jpg'
+global.fglog = 'https://i.ibb.co/G2dh9cB/qasim.jpg'
 global.thumb = fs.readFileSync('./assets/A.jpg')
 
 global.wait = '⏳'
