@@ -115,7 +115,7 @@ export async function handler(chatUpdate) {
         if (!('antiSticker' in chat)) chat.antiSticker = false
         if (!('antiToxic' in chat)) chat.antiToxic = false
         if (!('detect' in chat)) chat.detect = false
-        if (!('getmsg' in chat)) chat.getmsg = true
+        if (!('getmsg' in chat)) chat.getmsg = false
         if (!('isBanned' in chat)) chat.isBanned = false
         if (!('nsfw' in chat)) chat.nsfw = false
         if (!('sBye' in chat)) chat.sBye = ''
@@ -137,7 +137,7 @@ export async function handler(chatUpdate) {
           antiToxic: false,
           detect: false,
           expired: 0,
-          getmsg: true,
+          getmsg: false,
           isBanned: false,
           nsfw: false,
           sBye: '',
@@ -563,7 +563,8 @@ export async function participantsUpdate({ id, participants, action }) {
             )}`
 
             try {
-              let welcomeResponse = await fetch(welcomeApiUrl)
+              const welcomeUrl = 'https://i.imgur.com/mxFDDcm.jpeg';
+              let welcomeResponse = await fetch(welcomeUrl)
               let welcomeBuffer = await welcomeResponse.buffer()
 
               this.sendMessage(id, {
@@ -571,9 +572,9 @@ export async function participantsUpdate({ id, participants, action }) {
                 contextInfo: {
                   mentionedJid: [user],
                   externalAdReply: {
-                    title: 'Global Bot',
-                    body: 'Welcome to Group',
-                    thumbnailUrl: welcomeApiUrl,
+                    title: '𝕋𝕆𝕌ℂℍ ℍ𝔼ℝ𝔼',
+                    body: '𝚆𝙴𝙻𝙲𝙾𝙼𝙴 𝚃𝙾 𝙶𝚁𝙾𝚄𝙿',
+                    thumbnailUrl: welcomeUrl,
                     sourceUrl: 'https://whatsapp.com/channel/0029VagJIAr3bbVBCpEkAM07',
                     mediaType: 1,
                     renderLargerThumbnail: true,
@@ -620,7 +621,8 @@ export async function participantsUpdate({ id, participants, action }) {
             )}`
 
             try {
-              let leaveResponse = await fetch(leaveApiUrl)
+              const leaveUrl = 'https://i.imgur.com/rO8hlAQ.jpeg';
+              let leaveResponse = await fetch(leaveUrl)
               let leaveBuffer = await leaveResponse.buffer()
 
               this.sendMessage(id, {
@@ -628,9 +630,9 @@ export async function participantsUpdate({ id, participants, action }) {
                 contextInfo: {
                   mentionedJid: [user],
                   externalAdReply: {
-                    title: 'Global Bot',
-                    body: 'Goodbye from  Group',
-                    thumbnailUrl: leaveApiUrl,
+                    title: '𝕋𝕆𝕌ℂℍ ℍ𝔼ℝ𝔼',
+                    body: '𝙶𝙾𝙾𝙳 𝙱𝚈𝙴 𝙵𝚁𝙾𝙼 𝙶𝚁𝙾𝚄𝙿',
+                    thumbnailUrl: leaveUrl,
                     sourceUrl: 'https://whatsapp.com/channel/0029VagJIAr3bbVBCpEkAM07',
                     mediaType: 1,
                     renderLargerThumbnail: true,

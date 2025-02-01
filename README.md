@@ -28,7 +28,9 @@
  <h2 align="center">  NOTE
 </h2>
 
-#### No Worries If You Don't Have pre connection/SESSION_ID , Just Put Your Number In The Value Of BOT_NUMBER, e.g BOT_NUMBER = '923444844XXX' , Either In config.js or .env file , And Deploy The Bot, You'll Get A Pairing Code Directly In The Terminal at The End Of Deployment, Pair And Get Connected.
+#### 1: No Worries If You Don't Have pre connection/SESSION_ID , Just Put Your Number In The Value Of BOT_NUMBER, e.g BOT_NUMBER = '923444844XXX' , Either In config.js or .env file , And Deploy The Bot, You'll Get A Pairing Code Directly In The Terminal at The End Of Deployment, Pair And Get Connected.
+
+#### 2: For Render, Koyeb, Glitch, Gcloud etc. Put Your App Url In Environment Variables ( APP_URL ) And Your Bot Will Runs 24/7 Unlimited.
 
 ----
 
@@ -412,6 +414,12 @@ npm start
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 - **STAR ⭐ THE REPO IF YOU LIKE MEGA-AI .**
+
+- ## OTHER PROJECTS:
+
+- [PAIRING WEB](https://github.com/GlobalTechInfo/WEB-PAIR-QR)
+- [TELEGRAM BOT](https://github.com/GlobalTechInfo/TELEGRAM-AI)
+
 
 ## Credits
 
