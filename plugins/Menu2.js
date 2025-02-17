@@ -89,7 +89,7 @@ let str = `
 ◈├• *ownermenu*
 ◈├• *setprivacy*
 ◈╰─♪♪─★─☆──♪♪─❍
-© *GlobalTechInfo*
+© *𝗢𝗕𝗜𝗧𝗢-𝗕𝗢𝗧𝗭𝗭*
 
 > 💡 *_Remember, when in doubt, use ${usedPrefix}listmenu or ${usedPrefix}help It's like my magic spell book!_* 💡
 `
