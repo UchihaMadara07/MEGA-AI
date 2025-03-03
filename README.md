@@ -75,17 +75,19 @@ To set up the MEGA AI quickly, follow our detailed tutorial on YouTube:
 
 ## Deployment Options
 
-### **Fork & Star the Repository**
+ **Fork & Star the Repository**
    - Start by forking this repository and giving it a ⭐ to support GlobalTechInfo!
      To set up the MEGA AI quickly, first fork this repository:
 [![MEGA AI Github Repo](https://img.shields.io/badge/Github-Fork%20Repo-red?style=for-the-badge&logo=Github)](https://github.com/GlobalTechInfo/MEGA-AI/fork)
 
-### **PAIRING CODE & QR CODE**
-   - Visit the bot site to generate a pairing code and get **SESSION ID.**
+### PAIRING CODE & QR CODE
+   - Visit site to generate a pairing code and get **SESSION ID.**
 
-     [![MEGA AI Github Repo](https://img.shields.io/badge/Whatsapp-Pair%20Code-green?style=for-the-badge&logo=Whatsapp)](https://ultra-pair-e2afa02e65c6.herokuapp.com/)
+   - **Remember If It Shows 502 Bad Gateway That Means API Is Restarting, So Wait A While Then Refresh The Web Page And Then Pairing Options Will Be Available**
 
-### **Step-by-Step Deployment Guide**
+     [![MEGA AI Github Repo](https://img.shields.io/badge/Whatsapp-Pair%20Code-green?style=for-the-badge&logo=Whatsapp)](https://mega-pair.onrender.com)
+
+### Step-by-Step Deployment Guide
 
 **Option A: Deploy In Heroku**
 1. [Create an Account on Heroku](https://signup.heroku.com/) if you haven’t already.
@@ -97,7 +99,7 @@ To set up the MEGA AI quickly, follow our detailed tutorial on YouTube:
 
 **Option B: Deploy In Koyeb**
 1. [Sign Up on Koyeb](https://app.koyeb.com/auth/signup).
-3. Deploy your app using the button below:
+2. Deploy your app using the button below:
    <br>
    <a href='https://app.koyeb.com' target="_blank">
       <img alt='Deploy In Koyeb' src='https://img.shields.io/badge/-DEPLOY-red?style=for-the-badge&logo=koyeb&logoColor=white'/>
@@ -138,7 +140,7 @@ To set up the MEGA AI quickly, follow our detailed tutorial on YouTube:
     **Option G: Deploy In Panel**
  1. First You Have to Sign up on discord using web or app then click below.
 2. [Sign Up In Panel](https://bot-hosting.net/?aff=1097457675723341836) if you don’t have Already.
-4. Click the button below to deploy using Panel:
+3. Click the button below to deploy using Panel:
    <br>
    <a href='https://bot-hosting.net/?aff=1097457675723341836' target="_blank">
       <img alt='Deploy In Panel' src='https://img.shields.io/badge/-DEPLOY-green?style=for-the-badge&logo=Cloudflare&logoColor=white'/>
@@ -317,9 +319,9 @@ This project is licensed under the [Apache-2.0 license](LICENSE) - see the LICEN
 
 <p align="center">
   
- 7. # DEPLOY IN TERMUX
+ 7. ## DEPLOY IN TERMUX
 
- 8. ## For Ubuntu Users
+ 8. **For Ubuntu Users**
    
 ```
 pkg update && pkg upgrade -y
@@ -362,7 +364,7 @@ npm start
 
 -----
 
-## For Fedora Users
+**For Fedora Users**
 
 ```
 pkg update && pkg upgrade -y
