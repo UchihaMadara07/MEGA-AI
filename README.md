@@ -58,7 +58,7 @@ set the Env Vars.
 ## 🎬 Watch the Tutorial
 
 To set up the MEGA AI quickly, follow our detailed tutorial on YouTube:
-[![MEGA AI YouTube Tutorial](https://img.shields.io/badge/YouTube-Watch%20Tutorial-red?style=for-the-badge&logo=youtube)](https://youtu.be/nE4v4KWBfAU)
+[![MEGA AI YouTube Tutorial](https://img.shields.io/badge/YouTube-Watch%20Tutorial-red?style=for-the-badge&logo=youtube)](https://youtu.be/GKHazA8e2oQ)
 
 ---
 
@@ -98,6 +98,9 @@ To set up the MEGA AI quickly, follow our detailed tutorial on YouTube:
    </a>
 
 **Option B: Deploy In Koyeb**
+
+[![Koyeb Tutorial](https://img.shields.io/badge/Watch%20Tutorial-red?style=for-the-badge&logo=youtube)](https://youtu.be/GKHazA8e2oQ)
+
 1. [Sign Up on Koyeb](https://app.koyeb.com/auth/signup).
 2. Deploy your app using the button below:
    <br>
@@ -321,7 +324,11 @@ This project is licensed under the [Apache-2.0 license](LICENSE) - see the LICEN
   
  7. ## DEPLOY IN TERMUX
 
- 8. **For Ubuntu Users**
+
+[![Termux Tutorial](https://img.shields.io/badge/Watch%20Tutorial-red?style=for-the-badge&logo=youtube)](https://youtu.be/bmv-etXhWSA)
+
+
+ 9. **For Ubuntu Users**
    
 ```
 pkg update && pkg upgrade -y
