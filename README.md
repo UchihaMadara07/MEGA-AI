@@ -1,7 +1,7 @@
 
 <p align="center">  
-  <a href="https://youtu.be/nE4v4KWBfAU">
-    <img alt="ULTRA" src="https://i.ibb.co/CzvBQHc/IMG-20250110-WA0006.jpg">
+  <a href="https://youtu.be/GKHazA8e2oQ">
+    <img alt="ULTRA" src="https://i.ibb.co/84cjYFWr/20250424-162052.jpg">
   </a>
 </p>
 <p align="center">
