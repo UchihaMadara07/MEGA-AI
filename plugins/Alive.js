@@ -17,12 +17,12 @@ let handler = async (m, { conn, text, usedPrefix, command }) => {
   };
 
   let messageContent = {
-    text: '𝗢𝗕𝗜𝗧𝗢-𝗕𝗢𝗧𝗭𝗭 𝗜𝗦 𝗥𝗨𝗡𝗡𝗜𝗡𝗚', // Text content in case a message body is needed
+    text: '𝗕𝗢𝗧 𝗜𝗦 𝗥𝗨𝗡𝗡𝗜𝗡𝗚', // Text content in case a message body is needed
     contextInfo: {
       mentionedJid: [m.sender],
       externalAdReply: {
-        title: '© 𝗢𝗕𝗜𝗧𝗢-𝗕𝗢𝗧𝗭𝗭',
-        body: '© 𝗢𝗕𝗜𝗧𝗢-𝗕𝗢𝗧𝗭𝗭',
+        title: '© ★ σвιтσ-кυη ★',
+        body: '© ★ σвιтσ-кυη ★',
         thumbnailUrl: img,
         sourceUrl: 'https://chat.whatsapp.com/KWAadDw545X2Re1F6RjjEz',
         mediaType: 1,
