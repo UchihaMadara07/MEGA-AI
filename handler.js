@@ -633,7 +633,7 @@ export async function participantsUpdate({ id, participants, action }) {
                     title: '𝕋𝕆𝕌ℂℍ ℍ𝔼ℝ𝔼',
                     body: '𝙶𝙾𝙾𝙳 𝙱𝚈𝙴 𝙵𝚁𝙾𝙼 𝙶𝚁𝙾𝚄𝙿',
                     thumbnailUrl: leaveUrl,
-                    sourceUrl: 'https://whatsapp.com/channel/0029VagJIAr3bbVBCpEkAM07',
+                    sourceUrl: 'https://chat.whatsapp.com/KWAadDw545X2Re1F6RjjEz',
                     mediaType: 1,
                     renderLargerThumbnail: true,
                   },
